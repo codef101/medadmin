@@ -10,7 +10,7 @@
                         </div>
                         <div class="text-white">
                             <h6 class="text-uppercase mb-3 font-size-16 text-white">All Users</h6>
-                            <h2 class="mb-4 text-white">1,587</h2>
+                            <h2 class="mb-4 text-white">{{ $users_count }}</h2>
                             <span class="badge bg-info"> +11% </span>
                         </div>
                     </div>
@@ -25,7 +25,7 @@
                         <div class="text-white">
                             <h6 class="text-uppercase mb-3 font-size-16 text-white">Token Sales</h6>
                             <h2 class="mb-4 text-white">$46,782</h2>
-                            <span class="badge bg-danger"> +29% </span> 
+                            <span class="badge bg-danger"> +29% </span>
                         </div>
                     </div>
                 </div>
@@ -53,7 +53,7 @@
                         <div class="text-white">
                             <h6 class="text-uppercase mb-3 font-size-16 text-white">Users on List</h6>
                             <h2 class="mb-4 text-white">1,890</h2>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -62,8 +62,8 @@
 
         <!-- end row -->
 
-        
-        
+
+
         <div class="row">
             <div class="col-xl-6">
                 <div class="card">
